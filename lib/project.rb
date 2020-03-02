@@ -1,6 +1,6 @@
 class Project
   
-  attr_reader :title. :backer
+  attr_reader :title, :backer
   
   
   def 
